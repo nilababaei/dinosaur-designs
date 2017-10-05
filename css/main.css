@@ -10,11 +10,13 @@ img {
 
 h1 {
   color: #5d8432;
+  font-family: 'Patua One', cursive;
 }
 
 h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', cursive;
 }
 
 figcaption {
@@ -27,25 +29,17 @@ nav {
   font-weight: bold;
   font-size: 1.125rem;
   color: #793284;
-}
-
-a,
-a:link {
-  color: darkgreen;
-}
-
-a:visited {
-  color: limegreen;
+  font-family: 'Patua One', cursive;
 }
 
 a:hover {
   color: #b42885;
 }
 
-a:focus {
-  color: blue;
+ol {
+  list-style: none;
 }
 
-a:active {
-  color: red;
+.hadro {
+  font-size: 2rem;
 }
