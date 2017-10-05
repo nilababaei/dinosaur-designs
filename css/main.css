@@ -10,13 +10,13 @@ img {
 
 h1 {
   color: #5d8432;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 figcaption {
@@ -29,7 +29,7 @@ nav {
   font-weight: bold;
   font-size: 1.125rem;
   color: #793284;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 a:hover {
