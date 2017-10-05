@@ -1,0 +1,51 @@
+html {
+  background-color: #f2f1ed;
+  font-style: Georgia, serif;
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  color: #5d8432;
+}
+
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+
+figcaption {
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: center;
+}
+
+nav {
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #793284;
+}
+
+a,
+a:link {
+  color: darkgreen;
+}
+
+a:visited {
+  color: limegreen;
+}
+
+a:hover {
+  color: #b42885;
+}
+
+a:focus {
+  color: blue;
+}
+
+a:active {
+  color: red;
+}
